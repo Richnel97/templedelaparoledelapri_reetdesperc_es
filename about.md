@@ -1,45 +1,13 @@
 ---
 layout: page
-title: About
+title: Qui sommes- nous ?
 permalink: /about/
+
 ---
-
-A simple and elegant theme for Jekyll and GitHub Pages.
-
-### Features:
-* Mobile-first design ensures this theme performs fastest on mobile while scaling elegantly to desktop-size screens.
-* Designed for blogs and sites heavy on written content, with bold typography styles, homepage summaries, and previous/next snippets.
-* Supports a wide range of HTML elements and markdown.
-* Flexible styles that can be reused for customization without adding additional CSS.
-* Dynamically generated navigation links. See docs below for adding pages with specific post category for-loops.
-
-## Themes
-This theme comes in two color variations. The default is set to the `light` theme. To change the theme color, add `theme_color:` to your `config.yml` file with the color you wish to use. Example: `theme_color: dark`.
-
-<!-- | Config setting | Thumbnail |
-| --- | --- |
-| `theme_color: black` | <img width="330" alt="black" src="url"> |
-| `theme_color: red` | <img width="330" alt="red" src="url"> | -->
-
-
-## Installation
-
-Add this line to your Jekyll site's Gemfile:
-
-```ruby
-gem "jekyll-athena"
-```
-
-And add this line to your Jekyll site `config.yml`:
-
-```yaml
-theme: jekyll-athena
-```
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install jekyll-athena
+Des hommes, des femmes et des jeunes gens qui influencent spirituellement,
+économiquement et socialement le monde actuel.
+Vous êtes le sel de la terre. Mais si le sel perd sa saveur, avec quoi la lui
+rendra-t-on ? Il ne sert plus qu'à être jeté dehors, et foulé aux pieds par les
+hommes. Vous êtes la lumière du monde. Une ville située sur une montagne ne
+peut être cachée ; et on n'allume pas une lampe pour la mettre sous le
+boisseau, mais on la met sur le chandelier, et elle éclaire tous ceux qui sont dans la maison
